@@ -7,7 +7,7 @@
 <!-- {handle}부분에 백준 아이디 적으시면 돼요 ! -->
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={vikira})](https://solved.ac/{vikira})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vikira)](https://solved.ac/{vikira})
 
 <!-- 그냥 예시에요 !! 참고하시고 하셔도 되고 굳이 안하셔도 괘요 !! 자율입니다 ~~  !! -->
 
