@@ -13,6 +13,7 @@
 |     2      | Coding Bat  | [warmup1_2](https://codingbat.com/prob/p181646) | MonkeyTrouble | [풀이](https://codingbat.com/prob/p181646) |
 |     3      | Coding Bat  | [warmup1_3](https://codingbat.com/prob/p154485) | SumDouble     | [풀이](https://codingbat.com/prob/p154485) |
 |     4      | Coding Bat  | [warmup1_4](https://codingbat.com/prob/p116624) | SumDouble     | [풀이](https://codingbat.com/prob/p116624) |
+|     5      | Coding Bat  | [warmup1_4](https://codingbat.com/prob/p140449) | parrotTrouble | [풀이](https://codingbat.com/prob/p140449) |
 
 ---
 
