@@ -5,7 +5,7 @@
 ### **문제 목록**
 
 <details markdown="1">
-<summary><strong>📄 1주차 </strong></summary>
+<summary><strong>📄 1주차 (9/11 ~ 9/17) </strong></summary>
 
 | 푼 문제 수 | 문풀 사이트 |                    문제번호                     | 제목          | 풀이                                       |
 | :--------: | :---------: | :---------------------------------------------: | ------------- | ------------------------------------------ |
@@ -16,6 +16,7 @@
 |     5      | Coding Bat  | [warmup1_5](https://codingbat.com/prob/p140449) | parrotTrouble | [풀이](https://codingbat.com/prob/p140449) |
 |     6      | Coding Bat  | [warmup1_6](https://codingbat.com/prob/p182873) | makes10       | [풀이](https://codingbat.com/prob/p182873) |
 |     7      | Coding Bat  | [warmup1_7](https://codingbat.com/prob/p184004) | nearHundred   | [풀이](https://codingbat.com/prob/p184004) |
+|     8      | Coding Bat  | [warmup1_8](https://codingbat.com/prob/p159227) | posNeg        | [풀이](https://codingbat.com/prob/p159227) |
 
 ---
 
