@@ -19,6 +19,7 @@
 |     1      | [warmup1](https://codingbat.com/prob/p187868) |    SleepIn    | [풀이](https://codingbat.com/prob/p187868) |
 |     2      | [warmup1](https://codingbat.com/prob/p181646) | MonkeyTrouble | [풀이](https://codingbat.com/prob/p181646) |
 |     3      | [warmup1](https://codingbat.com/prob/p154485) |   SumDouble   | [풀이](https://codingbat.com/prob/p154485) |
+|     4      | [warmup1](https://codingbat.com/prob/p116624) |   SumDouble   | [풀이](https://codingbat.com/prob/p116624) |
 
 ---
 

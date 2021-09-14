@@ -1,6 +1,4 @@
-package coding_test_study.soobinJung.CodingBat.warmup1;
-
-public class sleepIn3 {
+class Solution {
     public boolean sleepIn(boolean weekday, boolean vacation) {
         if (vacation == false) {
             if (weekday == false) {
@@ -12,3 +10,7 @@ public class sleepIn3 {
         return true;
     }
 }
+
+// 내가 생각한 문제 의도
+// 풀이 설명
+// 다른 풀이

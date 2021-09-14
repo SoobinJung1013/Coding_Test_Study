@@ -1,6 +1,4 @@
-package coding_test_study.soobinJung.CodingBat.warmup1;
-
-public class sumDouble3 {
+class Solution {
     public int sumDouble(int a, int b) {
         if (a == b) {
             return (a + b) * 2;
@@ -10,3 +8,7 @@ public class sumDouble3 {
     }
 
 }
+
+// 내가 생각한 문제 의도
+// 풀이 설명
+// 다른 풀이
