@@ -10,9 +10,9 @@
 | 푼 문제 수 |                  문제번호/URL                   |     제목      | 풀이                                       |
 | :--------: | :---------------------------------------------: | :-----------: | ------------------------------------------ |
 |     1      | [warmup1_1](https://codingbat.com/prob/p187868) |    SleepIn    | [풀이](https://codingbat.com/prob/p187868) |
-|     2      |  [warmup1](https://codingbat.com/prob/p181646)  | MonkeyTrouble | [풀이](https://codingbat.com/prob/p181646) |
-|     3      |  [warmup1](https://codingbat.com/prob/p154485)  |   SumDouble   | [풀이](https://codingbat.com/prob/p154485) |
-|     4      |  [warmup1](https://codingbat.com/prob/p116624)  |   SumDouble   | [풀이](https://codingbat.com/prob/p116624) |
+|     2      | [warmup1_2](https://codingbat.com/prob/p181646) | MonkeyTrouble | [풀이](https://codingbat.com/prob/p181646) |
+|     3      | [warmup1_3](https://codingbat.com/prob/p154485) |   SumDouble   | [풀이](https://codingbat.com/prob/p154485) |
+|     4      | [warmup1_4](https://codingbat.com/prob/p116624) |   SumDouble   | [풀이](https://codingbat.com/prob/p116624) |
 
 ---
 
