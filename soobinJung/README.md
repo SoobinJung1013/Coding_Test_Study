@@ -7,12 +7,12 @@
 <details markdown="1">
 <summary><strong>📄 1주차 </strong></summary>
 
-| 푼 문제 수 |                  문제번호/URL                   |     제목      | 풀이                                       |
-| :--------: | :---------------------------------------------: | :-----------: | ------------------------------------------ |
-|     1      | [warmup1_1](https://codingbat.com/prob/p187868) |    SleepIn    | [풀이](https://codingbat.com/prob/p187868) |
-|     2      | [warmup1_2](https://codingbat.com/prob/p181646) | MonkeyTrouble | [풀이](https://codingbat.com/prob/p181646) |
-|     3      | [warmup1_3](https://codingbat.com/prob/p154485) |   SumDouble   | [풀이](https://codingbat.com/prob/p154485) |
-|     4      | [warmup1_4](https://codingbat.com/prob/p116624) |   SumDouble   | [풀이](https://codingbat.com/prob/p116624) |
+| 푼 문제 수 |            |                   문풀 사이트                   | 문제번호      | 제목                                       | 풀이 |
+| :--------: | :--------: | :---------------------------------------------: | ------------- | ------------------------------------------ | ---- |
+|     1      | Coding Bat | [warmup1_1](https://codingbat.com/prob/p187868) | SleepIn       | [풀이](https://codingbat.com/prob/p187868) |
+|     2      | Coding Bat | [warmup1_2](https://codingbat.com/prob/p181646) | MonkeyTrouble | [풀이](https://codingbat.com/prob/p181646) |
+|     3      | Coding Bat | [warmup1_3](https://codingbat.com/prob/p154485) | SumDouble     | [풀이](https://codingbat.com/prob/p154485) |
+|     4      | Coding Bat | [warmup1_4](https://codingbat.com/prob/p116624) | SumDouble     | [풀이](https://codingbat.com/prob/p116624) |
 
 ---
 
