@@ -33,3 +33,10 @@ class Solution {
 
 // 문제가 좀 이해 안됨
 // 아직 잘 모르겠는데 예시에서 true 나오는 예들만 보여줌 : 이거 참고 ㄱ ㄱ
+
+/*
+ * public boolean posNeg(int a, int b, boolean negative) { if (negative) {
+ * return (a < 0 && b < 0); } else { return ((a < 0 && b > 0) || (a > 0 && b <
+ * 0)); } }
+ */
+// 우선 경우의 수가 더 적은 negative 중심으로 분류함

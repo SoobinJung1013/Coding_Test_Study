@@ -17,6 +17,7 @@
 |     6      | Coding Bat  | [warmup1_6](https://codingbat.com/prob/p182873) | makes10       | [풀이](https://codingbat.com/prob/p182873) |
 |     7      | Coding Bat  | [warmup1_7](https://codingbat.com/prob/p184004) | nearHundred   | [풀이](https://codingbat.com/prob/p184004) |
 |     8      | Coding Bat  | [warmup1_8](https://codingbat.com/prob/p159227) | posNeg        | [풀이](https://codingbat.com/prob/p159227) |
+|     9      | Coding Bat  | [warmup1_9](https://codingbat.com/prob/p191914) | notString     | [풀이](https://codingbat.com/prob/p191914) |
 
 ---
 
