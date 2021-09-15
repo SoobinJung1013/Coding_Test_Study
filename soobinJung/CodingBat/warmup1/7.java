@@ -17,3 +17,4 @@ class Solution {
  */
 
 // ... if 부분이 간단하면 return 에서 바로 넘겨주장 ~
+// Math.abs(200 - n)

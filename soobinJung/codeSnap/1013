@@ -1,0 +1,4 @@
+Math.abs(200 - n) 
+str.substring(0, 3).equals("not")
+substing(0, n)
+str.length()
