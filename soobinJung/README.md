@@ -47,6 +47,7 @@
 |     14     | Coding Bat | [string1_7](https://codingbat.com/prob/p172267)  | firstHalf   |
 |     15     | Coding Bat | [string1_8](https://codingbat.com/prob/p130896)  | withoutEnd  |
 |     16     | Coding Bat | [string1_9](https://codingbat.com/prob/p168564)  | comboString |
+|     17     | Coding Bat | [string1_10](https://codingbat.com/prob/p143825) | nonStart    |
 
 ---
 
