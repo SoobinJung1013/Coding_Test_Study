@@ -9,7 +9,7 @@
 <details markdown="1">
 <summary><strong>📄 1주차 (9/11 ~ 9/17) </strong></summary>
 
-| 푼 문제 수 | 문제/풀이  |                     문제번호                     | 제목          |
+| 푼 문제 수 |   사이트   |                    문제/풀이                     | 제목          |
 | :--------: | :--------: | :----------------------------------------------: | ------------- |
 |     1      | Coding Bat | [warmup1_1](https://codingbat.com/prob/p187868)  | SleepIn       |
 |     2      | Coding Bat | [warmup1_2](https://codingbat.com/prob/p181646)  | MonkeyTrouble |
@@ -29,7 +29,7 @@
 <details markdown="1">
 <summary><strong>📄 2주차 (9/18 ~ 9/24) </strong></summary>
 
-| 푼 문제 수 | 문제/풀이  |                     문제번호                     | 제목        |
+| 푼 문제 수 |   사이트   |                    문제/풀이                     | 제목        |
 | :--------: | :--------: | :----------------------------------------------: | ----------- |
 |     1      | Coding Bat | [warmup1_11](https://codingbat.com/prob/p161642) | backAround  |
 |     2      | Coding Bat | [warmup1_12](https://codingbat.com/prob/p112564) | or35        |
