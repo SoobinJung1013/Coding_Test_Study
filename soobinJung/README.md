@@ -30,7 +30,8 @@
 | 푼 문제 수 | 문풀 사이트 |                     문제번호                     | 제목       | 풀이                                       |
 | :--------: | :---------: | :----------------------------------------------: | ---------- | ------------------------------------------ |
 |     1      | Coding Bat  | [warmup1_11](https://codingbat.com/prob/p161642) | backAround | [풀이](https://codingbat.com/prob/p161642) |
-|            | Coding Bat  | [warmup1_12](https://codingbat.com/prob/p112564) | or35       | [풀이](https://codingbat.com/prob/p112564) |
+|     2      | Coding Bat  | [warmup1_12](https://codingbat.com/prob/p112564) | or35       | [풀이](https://codingbat.com/prob/p112564) |
+|     3      | Coding Bat  | [warmup1_13](https://codingbat.com/prob/p183592) | front22    | [풀이](https://codingbat.com/prob/p183592) |
 
 ---
 
