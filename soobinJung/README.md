@@ -33,6 +33,9 @@
 |     2      | Coding Bat  | [warmup1_12](https://codingbat.com/prob/p112564) | or35       | [풀이](https://codingbat.com/prob/p112564) |
 |     3      | Coding Bat  | [warmup1_13](https://codingbat.com/prob/p183592) | front22    | [풀이](https://codingbat.com/prob/p183592) |
 |     4      | Coding Bat  | [warmup1_14](https://codingbat.com/prob/p191022) | startHi    | [풀이](https://codingbat.com/prob/p191022) |
+|     5      | Coding Bat  | [warmup1_15](https://codingbat.com/prob/p192082) | icyHot     | [풀이](https://codingbat.com/prob/p192082) |
+|     6      | Coding Bat  | [warmup1_16](https://codingbat.com/prob/p123384) | fontBack   | [풀이](https://codingbat.com/prob/p123384) |
+|     7      | Coding Bat  | [warmup1_17](https://codingbat.com/prob/p136351) | font3      | [풀이](https://codingbat.com/prob/p136351) |
 
 ---
 
