@@ -48,6 +48,8 @@
 |     15     | Coding Bat | [string1_8](https://codingbat.com/prob/p130896)  | withoutEnd  |
 |     16     | Coding Bat | [string1_9](https://codingbat.com/prob/p168564)  | comboString |
 |     17     | Coding Bat | [string1_10](https://codingbat.com/prob/p143825) | nonStart    |
+|     18     | Coding Bat | [string1_10](https://codingbat.com/prob/p197720) | left2       |
+|     19     | Coding Bat |  [logic_1](https://codingbat.com/prob/p137742)   | love6       |
 
 ---
 
