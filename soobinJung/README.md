@@ -42,7 +42,11 @@
 |     9      | Coding Bat | [string1_2](https://codingbat.com/prob/p161056)  | makeAbba    |
 |     10     | Coding Bat | [string1_3](https://codingbat.com/prob/p147483)  | makeTag     |
 |     11     | Coding Bat | [string1_4](https://codingbat.com/prob/p184030)  | makeOutWord |
-|     12     | Coding Bat | [string1_5](https://codingbat.com/prob/p184030)  | extraEnds   |
+|     12     | Coding Bat | [string1_5](https://codingbat.com/prob/p108853)  | extraEnds   |
+|     13     | Coding Bat | [string1_6](https://codingbat.com/prob/p163411)  | firstTwo    |
+|     14     | Coding Bat | [string1_7](https://codingbat.com/prob/p172267)  | firstHalf   |
+|     15     | Coding Bat | [string1_8](https://codingbat.com/prob/p130896)  | withoutEnd  |
+|     16     | Coding Bat | [string1_9](https://codingbat.com/prob/p168564)  | comboString |
 
 ---
 
