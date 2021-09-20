@@ -32,6 +32,7 @@
 |     1      | Coding Bat  | [warmup1_11](https://codingbat.com/prob/p161642) | backAround | [풀이](https://codingbat.com/prob/p161642) |
 |     2      | Coding Bat  | [warmup1_12](https://codingbat.com/prob/p112564) | or35       | [풀이](https://codingbat.com/prob/p112564) |
 |     3      | Coding Bat  | [warmup1_13](https://codingbat.com/prob/p183592) | front22    | [풀이](https://codingbat.com/prob/p183592) |
+|     4      | Coding Bat  | [warmup1_14](https://codingbat.com/prob/p191022) | startHi    | [풀이](https://codingbat.com/prob/p191022) |
 
 ---
 
