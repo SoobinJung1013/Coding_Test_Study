@@ -27,9 +27,10 @@
 <details markdown="1">
 <summary><strong>📄 2주차 (9/18 ~ 9/24) </strong></summary>
 
-| 푼 문제 수 | 문풀 사이트 |                     문제번호                     | 제목       | 풀이                                        |
-| :--------: | :---------: | :----------------------------------------------: | ---------- | ------------------------------------------- |
-|     1      | Coding Bat  | [warmup1_11](https://codingbat.com/prob/p161642) | backAround | [풀이](hhttps://codingbat.com/prob/p161642) |
+| 푼 문제 수 | 문풀 사이트 |                     문제번호                     | 제목       | 풀이                                       |
+| :--------: | :---------: | :----------------------------------------------: | ---------- | ------------------------------------------ |
+|     1      | Coding Bat  | [warmup1_11](https://codingbat.com/prob/p161642) | backAround | [풀이](https://codingbat.com/prob/p161642) |
+|            | Coding Bat  | [warmup1_12](https://codingbat.com/prob/p112564) | or35       | [풀이](https://codingbat.com/prob/p112564) |
 
 ---
 
