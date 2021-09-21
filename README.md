@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=Coding%20Test%20Study&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=Coding%20Test%20Study&fontSize=90)
 
 # 📚 악착이들
 
