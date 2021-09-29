@@ -61,6 +61,8 @@
 | 푼 문제 수 |   사이트    |                                         문제/풀이                                          |
 | :--------: | :---------: | :----------------------------------------------------------------------------------------: |
 |     1      | Programmers | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051?language=java) |
+|     2      | Programmers |                 [최댓값 구하기](https://programmers.co.kr/questions/8709)                  |
+|     3      | Programmers |         [최솟값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59038)          |
 
 ---
 
