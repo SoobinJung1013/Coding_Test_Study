@@ -55,5 +55,15 @@
 
 </details>
 
+<details markdown="1">
+<summary><strong>📄 3주차 (9/18 ~ 10/1) </strong></summary>
+
+| 푼 문제 수 |   사이트    |                                         문제/풀이                                          |
+| :--------: | :---------: | :----------------------------------------------------------------------------------------: |
+|     1      | Programmers | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051?language=java) |
+
+---
+
+</details>
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sb991013)](https://solved.ac/sb991013) -->
