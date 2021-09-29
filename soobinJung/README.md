@@ -63,6 +63,8 @@
 |     1      | Programmers | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051?language=java) |
 |     2      | Programmers |                 [최댓값 구하기](https://programmers.co.kr/questions/8709)                  |
 |     3      | Programmers |         [최솟값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59038)          |
+|     4      | Programmers |         [동물 수 구하기](https://programmers.co.kr/learn/courses/30/lessons/59406)         |
+|     5      | Programmers |         [중복 제거하기](https://programmers.co.kr/learn/courses/30/lessons/59408#)         |
 
 ---
 
