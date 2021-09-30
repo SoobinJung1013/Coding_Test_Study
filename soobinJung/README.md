@@ -70,6 +70,8 @@
 |     8      | Programmers |         [아픈 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59036)         |
 |     9      | Programmers |         [어린 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59037)         |
 |     10     | Programmers |      [동물의 아이디와 이름](https://programmers.co.kr/learn/courses/30/lessons/59403)      |
+|     11     | Programmers |     [여러 기준으로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59404)     |
+|     12     | Programmers |        [상위 n개 레코드](https://programmers.co.kr/learn/courses/30/lessons/59405)         |
 
 ---
 
