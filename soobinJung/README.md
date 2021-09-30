@@ -72,6 +72,12 @@
 |     10     | Programmers |      [동물의 아이디와 이름](https://programmers.co.kr/learn/courses/30/lessons/59403)      |
 |     11     | Programmers |     [여러 기준으로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59404)     |
 |     12     | Programmers |        [상위 n개 레코드](https://programmers.co.kr/learn/courses/30/lessons/59405)         |
+|     13     | Programmers |     [이름이 없는 동물의 ID](https://programmers.co.kr/learn/courses/30/lessons/59039)      |
+|     14     | Programmers |     [이름이 있는 동물의 ID](https://programmers.co.kr/learn/courses/30/lessons/59407)      |
+|     15     | Programmers |         [NULL 처리하기](https://programmers.co.kr/learn/courses/30/lessons/59410)          |
+|     16     | Programmers |       [없어진 기록 찾기🌟](https://programmers.co.kr/learn/courses/30/lessons/59042)       |
+|     17     | Programmers |    [있었는데요 없었습니다🌟](hhttps://programmers.co.kr/learn/courses/30/lessons/59043)    |
+|     18     | Programmers |    [오랜 기간 보호한 동물🌟](hhttps://programmers.co.kr/learn/courses/30/lessons/59043)    |
 
 ---
 
