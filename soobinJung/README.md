@@ -65,6 +65,10 @@
 |     3      | Programmers |         [최솟값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59038)          |
 |     4      | Programmers |         [동물 수 구하기](https://programmers.co.kr/learn/courses/30/lessons/59406)         |
 |     5      | Programmers |         [중복 제거하기](https://programmers.co.kr/learn/courses/30/lessons/59408#)         |
+|     6      | Programmers |      [모든 레코드 조회하기](https://programmers.co.kr/learn/courses/30/lessons/59034)      |
+|     7      | Programmers |      [역순 정렬하기\_DESC](https://programmers.co.kr/learn/courses/30/lessons/59035)       |
+|     8      | Programmers |         [아픈 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59036)         |
+|     9      | Programmers |         [어린 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59037)         |
 
 ---
 
