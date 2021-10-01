@@ -32,14 +32,12 @@
 <details markdown="1">
 <summary><strong>📄 2주차 </strong></summary>
 
-| 푼 문제 수 |                         문제번호/URL                         | 제목 | 풀이                                                         |
-| :--------: | :----------------------------------------------------------: | :--: | ------------------------------------------------------------ |
-|     1      |         [2557](https://www.acmicpc.net/problem/2557)         |      | [풀이](https://github.com/SoobinJung1013/coding_test_study/blob/main/yoojinYang/BaekJoon/1/example.md) |
-|     2      |        [10718](https://www.acmicpc.net/problem/10718)        |      | [풀이](https://github.com/SoobinJung1013/coding_test_study/blob/main/yoojinYang/BaekJoon/1/example.md) |
-|     3      | [72410](https://programmers.co.kr/learn/courses/30/lessons/72410) |      | [풀이](https://github.com/SoobinJung1013/coding_test_study/blob/main/yoojinYang/BaekJoon/1/example.md) |
-|     4      |         [1](https://leetcode.com/problems/two-sum/)          |      | [풀이](https://github.com/SoobinJung1013/coding_test_study/blob/main/yoojinYang/BaekJoon/1/example.md) |
-|     5      |     [49](https://leetcode.com/problems/group-anagrams/)      |      | [풀이](https://github.com/SoobinJung1013/coding_test_study/blob/main/yoojinYang/BaekJoon/1/example.md) |
-|     6      |  [23](https://leetcode.com/problems/merge-k-sorted-lists/)   |      | [풀이](https://github.com/SoobinJung1013/coding_test_study/blob/main/yoojinYang/BaekJoon/1/example.mdd) |
+| 푼 문제 수 |                         문제번호/URL                         |         제목         | 풀이                                                         |
+| :--------: | :----------------------------------------------------------: | :------------------: | ------------------------------------------------------------ |
+|     1      |         [1152](https://www.acmicpc.net/problem/1152)         |     단어의 개수      | [풀이](https://github.com/SoobinJung1013/coding-test-study/blob/main/yoojinYang/BaekJoon/2/1152.py) |
+|     2      |         [2750](https://www.acmicpc.net/problem/2750)         |     수 정렬하기      | [풀이](https://github.com/SoobinJung1013/coding-test-study/blob/main/yoojinYang/BaekJoon/2/2750.py) |
+|     3      | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | 가운데 글자 가져오기 | [풀이](https://github.com/SoobinJung1013/coding_test_study/blob/main/yoojinYang/BaekJoon/1/example.md) |
+|     4      |         [1](https://leetcode.com/problems/two-sum/)          |                      | [풀이](https://github.com/SoobinJung1013/coding_test_study/blob/main/yoojinYang/BaekJoon/1/example.md) |
 
 ---
 
