@@ -45,12 +45,13 @@
 <summary><strong>📄 3주차 </strong></summary>
 
 
-| 푼 문제 수 |                         문제번호/URL                         |         제목         | 풀이                                                         |
-| :--------: | :----------------------------------------------------------: | :------------------: | ------------------------------------------------------------ |
-|     1      |         [1152](https://www.acmicpc.net/problem/1152)         |     단어의 개수      | [풀이](https://github.com/SoobinJung1013/coding-test-study/blob/main/yoojinYang/BaekJoon/2/1152.py) |
-|     2      |         [2750](https://www.acmicpc.net/problem/2750)         |     수 정렬하기      | [풀이](https://github.com/SoobinJung1013/coding-test-study/blob/main/yoojinYang/BaekJoon/2/2750.py) |
-|     3      | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | 가운데 글자 가져오기 | [풀이](https://github.com/SoobinJung1013/coding-test-study/blob/main/yoojinYang/Programmers/2/1.py) |
-|     4      |                           EPPER 7                            |      확대 기능       | [풀이](https://github.com/SoobinJung1013/coding-test-study/blob/main/yoojinYang/BaekJoon/2/EPPER7.py) |
+| 푼 문제 수 |                  문제번호/URL                  |         제목          | 풀이                                                         |
+| :--------: | :--------------------------------------------: | :-------------------: | ------------------------------------------------------------ |
+|     1      |  [1157](https://www.acmicpc.net/problem/1157)  |       단어 공부       | [풀이](https://github.com/SoobinJung1013/coding-test-study/blob/main/yoojinYang/BaekJoon/3/1157.py) |
+|     2      | [10988](https://www.acmicpc.net/problem/10988) | 팰린드롬인지 확인하기 | [풀이](https://github.com/SoobinJung1013/coding-test-study/blob/main/yoojinYang/BaekJoon/3/10988.py) |
+|     3      |                   EPPER 15-3                   |     재고 없는 날      | [풀이](https://github.com/SoobinJung1013/coding-test-study/blob/main/yoojinYang/BaekJoon/3/epper15-3.py) |
+|     4      |                   EPPER 15-4                   |      100 만들기       | [풀이](https://github.com/SoobinJung1013/coding-test-study/blob/main/yoojinYang/BaekJoon/3/epper15-4.py) |
+|     5      |                   EPPER 15-5                   |      문자열 압축      | [풀이](https://github.com/SoobinJung1013/coding-test-study/blob/main/yoojinYang/BaekJoon/3/epper15-5.py) |
 
 ---
 
