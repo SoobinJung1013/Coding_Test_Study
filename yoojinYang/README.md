@@ -15,6 +15,7 @@
 
 <details markdown="1">
 <summary><strong>📄 1주차 (9/11~9/17) </strong></summary>
+
 | 푼 문제 수 |                  문제번호/URL                  |    제목    | 풀이                                                         |
 | :--------: | :--------------------------------------------: | :--------: | ------------------------------------------------------------ |
 |     1      |  [1259](https://www.acmicpc.net/problem/1259)  | 팰린드롬수 | [풀이](https://github.com/SoobinJung1013/coding_test_study/blob/main/yoojinYang/BaekJoon/1/1259.py) |
@@ -22,6 +23,7 @@
 |     3      | [14563](https://www.acmicpc.net/problem/14563) |   완전수   | [풀이](https://github.com/SoobinJung1013/coding_test_study/blob/main/yoojinYang/BaekJoon/1/14563.py) |
 |     4      |  [2753](https://www.acmicpc.net/problem/2753)  |    윤년    | [풀이](https://github.com/SoobinJung1013/coding_test_study/blob/main/yoojinYang/BaekJoon/1/2753.py) |
 |     5      |  [8958](https://www.acmicpc.net/problem/8958)  |   OX퀴즈   | [풀이](https://github.com/SoobinJung1013/coding_test_study/blob/main/yoojinYang/BaekJoon/1/8958.py) |
+
 
 ---
 
@@ -43,8 +45,6 @@
 
 <details markdown="1">
 <summary><strong>📄 3주차 </strong></summary>
-
-
 | 푼 문제 수 |                  문제번호/URL                  |         제목          | 풀이                                                         |
 | :--------: | :--------------------------------------------: | :-------------------: | ------------------------------------------------------------ |
 |     1      |  [1157](https://www.acmicpc.net/problem/1157)  |       단어 공부       | [풀이](https://github.com/SoobinJung1013/coding-test-study/blob/main/yoojinYang/BaekJoon/3/1157.py) |
