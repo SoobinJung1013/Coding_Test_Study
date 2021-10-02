@@ -4,6 +4,10 @@
 
 ## 💻 Coding Test
 
+### **발표자료**
+
+- [3주차 👈🏻](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1013.md)
+
 ### **문제 목록**
 
 <details markdown="1">
