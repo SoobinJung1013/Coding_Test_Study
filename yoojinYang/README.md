@@ -59,3 +59,19 @@
 
 </details>
 
+<details markdown="1">
+<summary><strong>📄 4주차 (10/2~10/8) </strong></summary>
+
+
+| 푼 문제 수 |                 문제번호/URL                 |   제목   | 풀이                                                         |
+| :--------: | :------------------------------------------: | :------: | ------------------------------------------------------------ |
+|     1      | [5585](https://www.acmicpc.net/problem/5585) | 거스름돈 | [풀이](https://github.com/SoobinJung1013/coding-test-study/blob/main/yoojinYang/BaekJoon/3/1157.py) |
+|     2      | [5622](https://www.acmicpc.net/problem/5622) |  다이얼  | [풀이](https://github.com/SoobinJung1013/coding-test-study/blob/main/yoojinYang/BaekJoon/3/10988.py) |
+|     3      |                                              |          | [풀이](https://github.com/SoobinJung1013/coding-test-study/blob/main/yoojinYang/BaekJoon/3/epper15-3.py) |
+|     4      |                                              |          | [풀이](https://github.com/SoobinJung1013/coding-test-study/blob/main/yoojinYang/BaekJoon/3/epper15-4.py) |
+|     5      |                                              |          | [풀이](https://github.com/SoobinJung1013/coding-test-study/blob/main/yoojinYang/BaekJoon/3/epper15-5.py) |
+
+---
+
+</details>
+
