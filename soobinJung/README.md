@@ -87,5 +87,20 @@
 ---
 
 </details>
+
+<details markdown="1">
+<summary><strong>📄 4,5주차 (10/2 ~ 10/15) </strong></summary>
+
+| 푼 문제 수 |    사이트     |                                      문제/풀이                                       |
+| :--------: | :-----------: | :----------------------------------------------------------------------------------: |
+|     1      |  Programmers  | [완주하지 못한 선수\_해시](https://programmers.co.kr/learn/courses/30/lessons/42576) |
+|     2      | CodingBat_map |                    [mapBully](https://codingbat.com/prob/p197888)                    |
+|     3      | CodingBat_map |                    [shareMap](https://codingbat.com/prob/p148813)                    |
+|     4      | CodingBat_map |                     [mapAB](https://codingbat.com/prob/p107259)                      |
+|     5      | CodingBat_map |                    [topping1](https://codingbat.com/prob/p182712)                    |
+
+---
+
+</details>
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sb991013)](https://solved.ac/sb991013) -->
