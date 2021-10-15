@@ -92,25 +92,25 @@
 <details markdown="1">
 <summary><strong>📄 4,5주차 (10/2 ~ 10/15) </strong></summary>
 
-| 푼 문제 수 |     사이트     |                                      문제/풀이                                       |
-| :--------: | :------------: | :----------------------------------------------------------------------------------: |
-|     1      |  Programmers   | [완주하지 못한 선수\_해시](https://programmers.co.kr/learn/courses/30/lessons/42576) |
-|     2      | CodingBat_map  |                    [mapBully](https://codingbat.com/prob/p197888)                    |
-|     3      | CodingBat_map  |                    [shareMap](https://codingbat.com/prob/p148813)                    |
-|     4      | CodingBat_map  |                     [mapAB](https://codingbat.com/prob/p107259)                      |
-|     5      | CodingBat_map  |                    [topping1](https://codingbat.com/prob/p182712)                    |
-|     6      | CodingBat_map  |                    [topping2](https://codingbat.com/prob/p196458)                    |
-|     7      | CodingBat_map  |                    [topping3](https://codingbat.com/prob/p128461)                    |
-|     8      | CodingBat_map  |                     [mapAB2](https://codingbat.com/prob/p115011)                     |
-|     9      | CodingBat_map  |                     [mapAB3](https://codingbat.com/prob/p115012)                     |
-|     10     | CodingBat_map  |                     [mapAB4](https://codingbat.com/prob/p136950)                     |
-|     11     | CodingBat_map2 |                     [word0](https://codingbat.com/prob/p152303)                      |
-|     12     | CodingBat_map2 |                    [wordLen](https://codingbat.com/prob/p125327)                     |
-|     13     | CodingBat_map2 |                     [pairs](https://codingbat.com/prob/p126332)                      |
-|     14     | CodingBat_map2 |                   [wordCount](https://codingbat.com/prob/p117630)                    |
-|     15     | CodingBat_map2 |                   [firstChar](https://codingbat.com/prob/p168493)                    |
-|     16     | CodingBat_map2 |                   [wordAppend](https://codingbat.com/prob/p103593)                   |
-|     17     | CodingBat_map2 |                  [wordMultiple](https://codingbat.com/prob/p190862)                  |
+| 푼 문제 수 |       사이트       |                                   문제/풀이                                    |
+| :--------: | :----------------: | :----------------------------------------------------------------------------: |
+|     1      | Programmers_level1 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) |
+|     2      |   CodingBat_map    |                 [mapBully](https://codingbat.com/prob/p197888)                 |
+|     3      |   CodingBat_map    |                 [shareMap](https://codingbat.com/prob/p148813)                 |
+|     4      |   CodingBat_map    |                  [mapAB](https://codingbat.com/prob/p107259)                   |
+|     5      |   CodingBat_map    |                 [topping1](https://codingbat.com/prob/p182712)                 |
+|     6      |   CodingBat_map    |                 [topping2](https://codingbat.com/prob/p196458)                 |
+|     7      |   CodingBat_map    |                 [topping3](https://codingbat.com/prob/p128461)                 |
+|     8      |   CodingBat_map    |                  [mapAB2](https://codingbat.com/prob/p115011)                  |
+|     9      |   CodingBat_map    |                  [mapAB3](https://codingbat.com/prob/p115012)                  |
+|     10     |   CodingBat_map    |                  [mapAB4](https://codingbat.com/prob/p136950)                  |
+|     11     |   CodingBat_map2   |                  [word0](https://codingbat.com/prob/p152303)                   |
+|     12     |   CodingBat_map2   |                 [wordLen](https://codingbat.com/prob/p125327)                  |
+|     13     |   CodingBat_map2   |                  [pairs](https://codingbat.com/prob/p126332)                   |
+|     14     |   CodingBat_map2   |                [wordCount](https://codingbat.com/prob/p117630)                 |
+|     15     |   CodingBat_map2   |                [firstChar](https://codingbat.com/prob/p168493)                 |
+|     16     |   CodingBat_map2   |                [wordAppend](https://codingbat.com/prob/p103593)                |
+|     17     |   CodingBat_map2   |               [wordMultiple](https://codingbat.com/prob/p190862)               |
 
 ---
 
