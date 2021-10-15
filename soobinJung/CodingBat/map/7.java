@@ -1,4 +1,3 @@
-package soobinJung.CodingBat.map;
 public Map<String, String> mapAB2(Map<String, String> map) {
     // map.get("a") == map.get("b")
     if (map.containsKey("a") && map.containsKey("b")) {
