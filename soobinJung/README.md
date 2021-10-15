@@ -98,6 +98,11 @@
 |     3      | CodingBat_map |                    [shareMap](https://codingbat.com/prob/p148813)                    |
 |     4      | CodingBat_map |                     [mapAB](https://codingbat.com/prob/p107259)                      |
 |     5      | CodingBat_map |                    [topping1](https://codingbat.com/prob/p182712)                    |
+|     6      | CodingBat_map |                    [topping2](https://codingbat.com/prob/p196458)                    |
+|     7      | CodingBat_map |                    [topping3](https://codingbat.com/prob/p128461)                    |
+|     8      | CodingBat_map |                     [mapAB2](https://codingbat.com/prob/p115011)                     |
+|     9      | CodingBat_map |                     [mapAB3](https://codingbat.com/prob/p115012)                     |
+|     10     | CodingBat_map |                     [mapAB4](https://codingbat.com/prob/p136950)                     |
 
 ---
 
