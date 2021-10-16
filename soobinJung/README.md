@@ -111,6 +111,8 @@
 |     15     |   CodingBat_map2   |                [firstChar](https://codingbat.com/prob/p168493)                 |
 |     16     |   CodingBat_map2   |                [wordAppend](https://codingbat.com/prob/p103593)                |
 |     17     |   CodingBat_map2   |               [wordMultiple](https://codingbat.com/prob/p190862)               |
+|   17_20    | Programmers_level1 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) |
+|   18_21    | Programmers_level2 |   [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42576)    |
 
 ---
 
