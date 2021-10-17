@@ -1,4 +1,3 @@
-package soobinJung.CodingBat.map;
 public Map<String, String> topping2(Map<String, String> map) {
     if (map.containsKey("spinach")) {
       map.put("spinach", "nuts");

@@ -1,6 +1,7 @@
 import java.util.*;
 import java.util.HashMap;
 
+// 문제는 풀었는데, 속도가 느림
 class Solution {
     public int solution(String[][] clothes) { // 2차원 배열 vs 1차원배열
         int answer = 0;
@@ -23,3 +24,42 @@ class Solution {
         return answer;
     }
 }
+
+// import java.util.HashMap;
+// import java.util.Iterator;
+// class Solution {
+// public int solution(String[][] clothes) {
+// int answer = 1;
+// HashMap<String, Integer> map = new HashMap<>();
+// for(int i=0; i<clothes.length; i++){
+// String key = clothes[i][1];
+// if(!map.containsKey(key)) {
+// map.put(key, 1);
+// } else {
+// map.put(key, map.get(key) + 1);
+// }
+// }
+// Iterator<Integer> it = map.values().iterator();
+// while(it.hasNext()) {
+// answer *= it.next().intValue()+1;
+// }
+// return answer-1;
+// }
+// }
+
+// 풀이는 똑같은데 다르게 표현
+
+// import java.util.*;
+// import static java.util.stream.Collectors.*;
+
+// class Solution {
+// public int solution(String[][] clothes) {
+// return Arrays.stream(clothes)
+// .collect(groupingBy(p -> p[1], mapping(p -> p[0], counting())))
+// .values()
+// .stream()
+// .collect(reducing(1L, (x, y) -> x * (y + 1))).intValue() - 1;
+// }
+// }
+
+// new

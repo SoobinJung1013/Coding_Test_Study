@@ -14,18 +14,18 @@
 <details markdown="1">
 <summary><strong>📄 1주차 (9/11 ~ 9/17) </strong></summary>
 
-| 푼 문제 수 |   사이트   |                    문제/풀이                     | 제목          |
-| :--------: | :--------: | :----------------------------------------------: | ------------- |
-|     1      | Coding Bat | [warmup1_1](https://codingbat.com/prob/p187868)  | SleepIn       |
-|     2      | Coding Bat | [warmup1_2](https://codingbat.com/prob/p181646)  | MonkeyTrouble |
-|     3      | Coding Bat | [warmup1_3](https://codingbat.com/prob/p154485)  | SumDouble     |
-|     4      | Coding Bat | [warmup1_4](https://codingbat.com/prob/p116624)  | SumDouble     |
-|     5      | Coding Bat | [warmup1_5](https://codingbat.com/prob/p140449)  | parrotTrouble |
-|     6      | Coding Bat | [warmup1_6](https://codingbat.com/prob/p182873)  | makes10       |
-|     7      | Coding Bat | [warmup1_7](https://codingbat.com/prob/p184004)  | nearHundred   |
-|     8      | Coding Bat | [warmup1_8](https://codingbat.com/prob/p159227)  | posNeg        |
-|     9      | Coding Bat | [warmup1_9](https://codingbat.com/prob/p191914)  | notString     |
-|     10     | Coding Bat | [warmup1_10](https://codingbat.com/prob/p190570) | missingChar   |
+| 푼 문제 수 |   사이트   |                      문제/풀이                      | 풀이위치   |
+| :--------: | :--------: | :-------------------------------------------------: | ---------- |
+|     1      | Coding Bat |   [SleepIn ](https://codingbat.com/prob/p187868)    | warmup1-1  |
+|     2      | Coding Bat | [MonkeyTrouble](https://codingbat.com/prob/p181646) | warmup1-2  |
+|     3      | Coding Bat |   [SumDouble](https://codingbat.com/prob/p154485)   | warmup1-3  |
+|     4      | Coding Bat |   [SumDouble](https://codingbat.com/prob/p116624)   | warmup1-4  |
+|     5      | Coding Bat | [parrotTrouble](https://codingbat.com/prob/p140449) | warmup1-5  |
+|     6      | Coding Bat |   [makes10 ](https://codingbat.com/prob/p182873)    | warmup1-6  |
+|     7      | Coding Bat | [nearHundred ](https://codingbat.com/prob/p184004)  | warmup1-7  |
+|     8      | Coding Bat |    [posNeg](https://codingbat.com/prob/p159227)     | warmup1-8  |
+|     9      | Coding Bat |   [notString](https://codingbat.com/prob/p191914)   | warmup1-9  |
+|     10     | Coding Bat | [missingChar ](https://codingbat.com/prob/p190570)  | warmup1-10 |
 
 ---
 
@@ -34,27 +34,27 @@
 <details markdown="1">
 <summary><strong>📄 2주차 (9/18 ~ 9/24) </strong></summary>
 
-| 푼 문제 수 |   사이트   |                    문제/풀이                     | 제목        |
-| :--------: | :--------: | :----------------------------------------------: | ----------- |
-|     1      | Coding Bat | [warmup1_11](https://codingbat.com/prob/p161642) | backAround  |
-|     2      | Coding Bat | [warmup1_12](https://codingbat.com/prob/p112564) | or35        |
-|     3      | Coding Bat | [warmup1_13](https://codingbat.com/prob/p183592) | front22     |
-|     4      | Coding Bat | [warmup1_14](https://codingbat.com/prob/p191022) | startHi     |
-|     5      | Coding Bat | [warmup1_15](https://codingbat.com/prob/p192082) | icyHot      |
-|     6      | Coding Bat | [warmup1_16](https://codingbat.com/prob/p123384) | fontBack    |
-|     7      | Coding Bat | [warmup1_17](https://codingbat.com/prob/p136351) | font3       |
-|     8      | Coding Bat | [string1_1](https://codingbat.com/prob/p171896)  | helloName   |
-|     9      | Coding Bat | [string1_2](https://codingbat.com/prob/p161056)  | makeAbba    |
-|     10     | Coding Bat | [string1_3](https://codingbat.com/prob/p147483)  | makeTag     |
-|     11     | Coding Bat | [string1_4](https://codingbat.com/prob/p184030)  | makeOutWord |
-|     12     | Coding Bat | [string1_5](https://codingbat.com/prob/p108853)  | extraEnds   |
-|     13     | Coding Bat | [string1_6](https://codingbat.com/prob/p163411)  | firstTwo    |
-|     14     | Coding Bat | [string1_7](https://codingbat.com/prob/p172267)  | firstHalf   |
-|     15     | Coding Bat | [string1_8](https://codingbat.com/prob/p130896)  | withoutEnd  |
-|     16     | Coding Bat | [string1_9](https://codingbat.com/prob/p168564)  | comboString |
-|     17     | Coding Bat | [string1_10](https://codingbat.com/prob/p143825) | nonStart    |
-|     18     | Coding Bat | [string1_10](https://codingbat.com/prob/p197720) | left2       |
-|     19     | Coding Bat |  [logic_1](https://codingbat.com/prob/p137742)   | love6       |
+| 푼 문제 수 |   사이트   |                     문제/풀이                     | 풀이위치   |
+| :--------: | :--------: | :-----------------------------------------------: | ---------- |
+|     1      | Coding Bat | [backAround](https://codingbat.com/prob/p161642)  | warmup1-11 |
+|     2      | Coding Bat |    [or35](https://codingbat.com/prob/p112564)     | warmup1-12 |
+|     3      | Coding Bat |   [front22](https://codingbat.com/prob/p183592)   | warmup1-13 |
+|     4      | Coding Bat |   [startHi](https://codingbat.com/prob/p191022)   | warmup1-14 |
+|     5      | Coding Bat |   [icyHot](https://codingbat.com/prob/p192082)    | warmup1-15 |
+|     6      | Coding Bat |  [fontBack](https://codingbat.com/prob/p123384)   | warmup1-16 |
+|     7      | Coding Bat |   [font3 ](https://codingbat.com/prob/p136351)    | warmup1-17 |
+|     8      | Coding Bat |  [helloName](https://codingbat.com/prob/p171896)  | string1_1  |
+|     9      | Coding Bat |  [makeAbba](https://codingbat.com/prob/p161056)   | string1_2  |
+|     10     | Coding Bat |   [makeTag](https://codingbat.com/prob/p147483)   | string1_3  |
+|     11     | Coding Bat | [makeOutWord](https://codingbat.com/prob/p184030) | string1_4  |
+|     12     | Coding Bat |  [extraEnds](https://codingbat.com/prob/p108853)  | string1_5  |
+|     13     | Coding Bat |  [firstTwo](https://codingbat.com/prob/p163411)   | string1_6  |
+|     14     | Coding Bat |  [irstHalf](https://codingbat.com/prob/p172267)   | string1_7  |
+|     15     | Coding Bat | [withoutEnd](https://codingbat.com/prob/p130896)  | string1_8  |
+|     16     | Coding Bat | [comboString](https://codingbat.com/prob/p168564) | string1_9  |
+|     17     | Coding Bat |  [nonStart](https://codingbat.com/prob/p143825)   | string1_10 |
+|     18     | Coding Bat |   [left2 ](https://codingbat.com/prob/p197720)    | string1_11 |
+|     19     | Coding Bat |   [love6 ](https://codingbat.com/prob/p137742)    | logic1-1   |
 
 ---
 
@@ -63,27 +63,27 @@
 <details markdown="1">
 <summary><strong>📄 3주차 (9/18 ~ 10/1) </strong></summary>
 
-| 푼 문제 수 |   사이트    |                                         문제/풀이                                          |
-| :--------: | :---------: | :----------------------------------------------------------------------------------------: |
-|     1      | Programmers | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051?language=java) |
-|     2      | Programmers |                 [최댓값 구하기](https://programmers.co.kr/questions/8709)                  |
-|     3      | Programmers |         [최솟값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59038)          |
-|     4      | Programmers |         [동물 수 구하기](https://programmers.co.kr/learn/courses/30/lessons/59406)         |
-|     5      | Programmers |         [중복 제거하기](https://programmers.co.kr/learn/courses/30/lessons/59408#)         |
-|     6      | Programmers |      [모든 레코드 조회하기](https://programmers.co.kr/learn/courses/30/lessons/59034)      |
-|     7      | Programmers |      [역순 정렬하기\_DESC](https://programmers.co.kr/learn/courses/30/lessons/59035)       |
-|     8      | Programmers |         [아픈 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59036)         |
-|     9      | Programmers |         [어린 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59037)         |
-|     10     | Programmers |      [동물의 아이디와 이름](https://programmers.co.kr/learn/courses/30/lessons/59403)      |
-|     11     | Programmers |     [여러 기준으로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59404)     |
-|     12     | Programmers |        [상위 n개 레코드](https://programmers.co.kr/learn/courses/30/lessons/59405)         |
-|     13     | Programmers |     [이름이 없는 동물의 ID](https://programmers.co.kr/learn/courses/30/lessons/59039)      |
-|     14     | Programmers |     [이름이 있는 동물의 ID](https://programmers.co.kr/learn/courses/30/lessons/59407)      |
-|     15     | Programmers |         [NULL 처리하기](https://programmers.co.kr/learn/courses/30/lessons/59410)          |
-|     16     | Programmers |       [없어진 기록 찾기🌟](https://programmers.co.kr/learn/courses/30/lessons/59042)       |
-|     17     | Programmers |    [있었는데요 없었습니다🌟](https://programmers.co.kr/learn/courses/30/lessons/59043)     |
-|     18     | Programmers |    [오랜 기간 보호한 동물🌟](https://programmers.co.kr/learn/courses/30/lessons/59043)     |
-|     19     | Programmers |   [보호소에서 중성화한 동물🌟](https://programmers.co.kr/learn/courses/30/lessons/59045)   |
+| 푼 문제 수 |   사이트    |                                         문제/풀이                                          | 풀이위치  |
+| :--------: | :---------: | :----------------------------------------------------------------------------------------: | :-------: |
+|     1      | Programmers | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051?language=java) | level1-1  |
+|     2      | Programmers |                 [최댓값 구하기](https://programmers.co.kr/questions/8709)                  | level1-2  |
+|     3      | Programmers |         [최솟값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59038)          | level2-3  |
+|     4      | Programmers |         [동물 수 구하기](https://programmers.co.kr/learn/courses/30/lessons/59406)         | level2-4  |
+|     5      | Programmers |         [중복 제거하기](https://programmers.co.kr/learn/courses/30/lessons/59408#)         | level2-5  |
+|     6      | Programmers |      [모든 레코드 조회하기](https://programmers.co.kr/learn/courses/30/lessons/59034)      | level1-6  |
+|     7      | Programmers |      [역순 정렬하기\_DESC](https://programmers.co.kr/learn/courses/30/lessons/59035)       | level1-7  |
+|     8      | Programmers |         [아픈 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59036)         | level1-8  |
+|     9      | Programmers |         [어린 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59037)         | level1-9  |
+|     10     | Programmers |      [동물의 아이디와 이름](https://programmers.co.kr/learn/courses/30/lessons/59403)      | level1-10 |
+|     11     | Programmers |     [여러 기준으로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59404)     | level1-11 |
+|     12     | Programmers |        [상위 n개 레코드](https://programmers.co.kr/learn/courses/30/lessons/59405)         | level1-12 |
+|     13     | Programmers |     [이름이 없는 동물의 ID](https://programmers.co.kr/learn/courses/30/lessons/59039)      | level1-13 |
+|     14     | Programmers |     [이름이 있는 동물의 ID](https://programmers.co.kr/learn/courses/30/lessons/59407)      | level1-14 |
+|     15     | Programmers |         [NULL 처리하기](https://programmers.co.kr/learn/courses/30/lessons/59410)          | level2-15 |
+|     16     | Programmers |       [없어진 기록 찾기🌟](https://programmers.co.kr/learn/courses/30/lessons/59042)       | level3-16 |
+|     17     | Programmers |    [있었는데요 없었습니다🌟](https://programmers.co.kr/learn/courses/30/lessons/59043)     | level3-17 |
+|     18     | Programmers |    [오랜 기간 보호한 동물🌟](https://programmers.co.kr/learn/courses/30/lessons/59043)     | level3-18 |
+|     19     | Programmers |   [보호소에서 중성화한 동물🌟](https://programmers.co.kr/learn/courses/30/lessons/59045)   | level1-19 |
 
 ---
 
@@ -92,25 +92,25 @@
 <details markdown="1">
 <summary><strong>📄 4,5주차 (10/2 ~ 10/15) </strong></summary>
 
-| 푼 문제 수 |       사이트       |                                   문제/풀이                                    |
-| :--------: | :----------------: | :----------------------------------------------------------------------------: |
-|     1      | Programmers_level1 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) |
-|     2      |   CodingBat_map    |                 [mapBully](https://codingbat.com/prob/p197888)                 |
-|     3      |   CodingBat_map    |                 [shareMap](https://codingbat.com/prob/p148813)                 |
-|     4      |   CodingBat_map    |                  [mapAB](https://codingbat.com/prob/p107259)                   |
-|     5      |   CodingBat_map    |                 [topping1](https://codingbat.com/prob/p182712)                 |
-|     6      |   CodingBat_map    |                 [topping2](https://codingbat.com/prob/p196458)                 |
-|     7      |   CodingBat_map    |                 [topping3](https://codingbat.com/prob/p128461)                 |
-|     8      |   CodingBat_map    |                  [mapAB2](https://codingbat.com/prob/p115011)                  |
-|     9      |   CodingBat_map    |                  [mapAB3](https://codingbat.com/prob/p115012)                  |
-|     10     |   CodingBat_map    |                  [mapAB4](https://codingbat.com/prob/p136950)                  |
-|     11     |   CodingBat_map2   |                  [word0](https://codingbat.com/prob/p152303)                   |
-|     12     |   CodingBat_map2   |                 [wordLen](https://codingbat.com/prob/p125327)                  |
-|     13     |   CodingBat_map2   |                  [pairs](https://codingbat.com/prob/p126332)                   |
-|     14     |   CodingBat_map2   |                [wordCount](https://codingbat.com/prob/p117630)                 |
-|     15     |   CodingBat_map2   |                [firstChar](https://codingbat.com/prob/p168493)                 |
-|     16     |   CodingBat_map2   |                [wordAppend](https://codingbat.com/prob/p103593)                |
-|     17     |   CodingBat_map2   |               [wordMultiple](https://codingbat.com/prob/p190862)               |
+| 푼 문제 수 |   사이트    |                                   문제/풀이                                    | 풀이위치  |
+| :--------: | :---------: | :----------------------------------------------------------------------------: | :-------: |
+|     1      | Programmers | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | level1-20 |
+|     2      |  CodingBat  |                 [mapBully](https://codingbat.com/prob/p197888)                 |  map1-1   |
+|     3      |  CodingBat  |                 [shareMap](https://codingbat.com/prob/p148813)                 |  map1-2   |
+|     4      |  CodingBat  |                  [mapAB](https://codingbat.com/prob/p107259)                   |  map1-3   |
+|     5      |  CodingBat  |                 [topping1](https://codingbat.com/prob/p182712)                 |  map1-4   |
+|     6      |  CodingBat  |                 [topping2](https://codingbat.com/prob/p196458)                 |  map1-5   |
+|     7      |  CodingBat  |                 [topping3](https://codingbat.com/prob/p128461)                 |  map1-6   |
+|     8      |  CodingBat  |                  [mapAB2](https://codingbat.com/prob/p115011)                  |  map1-7   |
+|     9      |  CodingBat  |                  [mapAB3](https://codingbat.com/prob/p115012)                  |  map1-8   |
+|     10     |  CodingBat  |                  [mapAB4](https://codingbat.com/prob/p136950)                  |  map1-9   |
+|     11     |  CodingBat  |                  [word0](https://codingbat.com/prob/p152303)                   |  map2-1   |
+|     12     |  CodingBat  |                 [wordLen](https://codingbat.com/prob/p125327)                  |  map2-2   |
+|     13     |  CodingBat  |                  [pairs](https://codingbat.com/prob/p126332)                   |  map2-3   |
+|     14     |  CodingBat  |                [wordCount](https://codingbat.com/prob/p117630)                 |  map2-4   |
+|     15     |  CodingBat  |                [firstChar](https://codingbat.com/prob/p168493)                 |  map2-5   |
+|     16     |  CodingBat  |                [wordAppend](https://codingbat.com/prob/p103593)                |  map2-6   |
+|     17     |  CodingBat  |               [wordMultiple](https://codingbat.com/prob/p190862)               |  map2-7   |
 
 ---
 
@@ -119,11 +119,11 @@
 <details markdown="1">
 <summary><strong>📄 6,7주차 (10/16 ~ 10/29) </strong></summary>
 
-| 푼 문제 수 |       사이트       |                                   문제/풀이                                    | 제목 |
-| :--------: | :----------------: | :----------------------------------------------------------------------------: | ---- |
-|    1_20    | Programmers_level1 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) |
-|    2_21    | Programmers_level2 |   [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42576)    |
-|    3_22    | Programmers_level2 |        [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)        |
+| 푼 문제 수 |       사이트       |                                   문제/풀이                                    | 풀이위치  |
+| :--------: | :----------------: | :----------------------------------------------------------------------------: | --------- |
+|     1      | Programmers_level1 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | level1-20 |
+|     2      | Programmers_level2 |   [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42576)    | level2-21 |
+|     3      | Programmers_level2 |        [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)        | level2-22 |
 
 </details>
 
