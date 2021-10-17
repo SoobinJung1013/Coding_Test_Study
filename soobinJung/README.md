@@ -111,11 +111,20 @@
 |     15     |   CodingBat_map2   |                [firstChar](https://codingbat.com/prob/p168493)                 |
 |     16     |   CodingBat_map2   |                [wordAppend](https://codingbat.com/prob/p103593)                |
 |     17     |   CodingBat_map2   |               [wordMultiple](https://codingbat.com/prob/p190862)               |
-|   17_20    | Programmers_level1 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) |
-|   18_21    | Programmers_level2 |   [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42576)    |
 
 ---
 
 </details>
+
+<details markdown="1">
+<summary><strong>📄 6,7주차 (10/16 ~ 10/29) </strong></summary>
+
+| 푼 문제 수 |       사이트       |                                   문제/풀이                                    | 제목 |
+| :--------: | :----------------: | :----------------------------------------------------------------------------: | ---- |
+|    1_20    | Programmers_level1 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) |
+|    2_21    | Programmers_level2 |   [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42576)    |
+
+</details>
+
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sb991013)](https://solved.ac/sb991013) -->
