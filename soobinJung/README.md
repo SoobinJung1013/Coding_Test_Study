@@ -119,11 +119,11 @@
 <details markdown="1">
 <summary><strong>📄 6,7주차 (10/16 ~ 10/29) </strong></summary>
 
-| 푼 문제 수 |       사이트       |                                   문제/풀이                                    | 풀이위치  |
-| :--------: | :----------------: | :----------------------------------------------------------------------------: | --------- |
-|     1      | Programmers_level1 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | level1-20 |
-|     2      | Programmers_level2 |   [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42576)    | level2-21 |
-|     3      | Programmers_level2 |        [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)        | level2-22 |
+| 푼 문제 수 |   사이트    |                                   문제/풀이                                    | 풀이위치  |
+| :--------: | :---------: | :----------------------------------------------------------------------------: | --------- |
+|     1      | Programmers | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | level1-20 |
+|     2      | Programmers |   [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42576)    | level2-21 |
+|     3      | Programmers |        [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)        | level2-22 |
 
 </details>
 
