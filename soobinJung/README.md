@@ -6,8 +6,10 @@
 
 ### **발표자료**
 
-- [3주차 👈🏻](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1013.md)
-- [4,5주차 👈🏻](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1015.md)
+- [2주차 : warmup](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/0925.md)
+- [3주차 : sql 👈🏻](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1001.md)
+- [7주차 : hashmap 👈🏻](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1029.md)
+<!-- - [8주차 : 정렬👈🏻](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md) -->
 
 ### **문제 목록**
 
