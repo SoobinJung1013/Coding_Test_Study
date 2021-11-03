@@ -133,10 +133,15 @@
 <details markdown="1">
 <summary><strong>📄 8주차 (10/30 ~ 11/5) </strong></summary>
 
-| 푼 문제 수 |   사이트    |                                   문제/풀이                                    | 풀이위치  |
-| :--------: | :---------: | :----------------------------------------------------------------------------: | --------- |
-|     1      | Programmers | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | level1-20 |
-|     2      | Programmers |   [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42576)    | level2-21 |
+| 푼 문제 수 |   사이트    |                                         문제/풀이                                         | 풀이위치  |
+| :--------: | :---------: | :---------------------------------------------------------------------------------------: | --------- |
+|     1      |  CodingBat  |                     [firstLast6](https://codingbat.com/prob/p185685)                      | array1-1  |
+|     2      |  CodingBat  |                    [sameFirstLast](https://codingbat.com/prob/p118976)                    | array1-2  |
+|     3      |  CodingBat  |                       [makePi](https://codingbat.com/prob/p118976)                        | array1-3  |
+|     4      |  CodingBat  |                      [commonEnd](https://codingbat.com/prob/p191991)                      | array1-4  |
+|     5      |  CodingBat  |                       [start1](https://codingbat.com/prob/p109660)                        | array1-5  |
+|     6      |  CodingBat  |                     [frontPiece](https://codingbat.com/prob/p142455)                      | array1-6  |
+|     7      | Programmers | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484#) | level1-21 |
 
 </details>
 <!-- [![Solved.ac
