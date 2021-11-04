@@ -133,15 +133,36 @@
 <details markdown="1">
 <summary><strong>📄 8주차 (10/30 ~ 11/5) </strong></summary>
 
-| 푼 문제 수 |   사이트    |                                         문제/풀이                                         | 풀이위치  |
-| :--------: | :---------: | :---------------------------------------------------------------------------------------: | --------- |
-|     1      |  CodingBat  |                     [firstLast6](https://codingbat.com/prob/p185685)                      | array1-1  |
-|     2      |  CodingBat  |                    [sameFirstLast](https://codingbat.com/prob/p118976)                    | array1-2  |
-|     3      |  CodingBat  |                       [makePi](https://codingbat.com/prob/p118976)                        | array1-3  |
-|     4      |  CodingBat  |                      [commonEnd](https://codingbat.com/prob/p191991)                      | array1-4  |
-|     5      |  CodingBat  |                       [start1](https://codingbat.com/prob/p109660)                        | array1-5  |
-|     6      |  CodingBat  |                     [frontPiece](https://codingbat.com/prob/p142455)                      | array1-6  |
-|     7      | Programmers | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484#) | level1-21 |
+| 푼 문제 수 |   사이트    |                                                      문제/풀이                                                       | 풀이위치 |
+| :--------: | :---------: | :------------------------------------------------------------------------------------------------------------------: | -------- |
+|     1      |  CodingBat  |                                   [firstLast6](https://codingbat.com/prob/p185685)                                   | array1-1 |
+|     2      |  CodingBat  |                                 [sameFirstLast](https://codingbat.com/prob/p118976)                                  | array1-2 |
+|     3      |  CodingBat  |                                     [makePi](https://codingbat.com/prob/p118976)                                     | array1-3 |
+|     4      |  CodingBat  |                                   [commonEnd](https://codingbat.com/prob/p191991)                                    | array1-4 |
+|     5      |  CodingBat  |                                     [start1](https://codingbat.com/prob/p109660)                                     | array1-5 |
+|     6      |  CodingBat  |                                   [frontPiece](https://codingbat.com/prob/p142455)                                   | array1-6 |
+|     7      | Programmers | [로또의 최고 순위와 최저 순위](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md) | level1   |
+|     8      | Programmers |       [없는 숫자 더하기](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)       | level1   |
+|     9      | Programmers |      [완주하지 못한 선수](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)      | level1   |
+|    10❌    | Programmers |       [신규아이디 추천](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)        | level1   |
+|     11     | Programmers |          [음양더하기](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)          | level1   |
+|     12     | Programmers |           [K번째 수](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)           | level1   |
+|     13     | Programmers |            [체육복](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)            | level1   |
+|     14     | Programmers |     [두 개 뽑아서 더하기](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)      | level1   |
+|     15     | Programmers |     [가운데 글자 가져오기](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)     | level1   |
+|     16     | Programmers |       [빅사각형 별 찍기](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)       | level1   |
+|     17     | Programmers |          [하사드 수](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)           | level1   |
+|     18     | Programmers |      [핸드폰 번호 가리기](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)      | level1   |
+|     19     | Programmers |         [행렬의 덧셈](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)          | level1   |
+|     20     | Programmers | [x만큼 간격이 있는 n개의 숫자](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md) | level1   |
+|     21     | Programmers |         [평균 구하기](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)          | level1   |
+|     22     | Programmers |         [콜라츠 추측](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)          | level1   |
+|     23     | Programmers |         [짝수와 홀수](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)          | level1   |
+|     24     | Programmers |      [두 정수 사이의 합](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)       | level1   |
+|     25     | Programmers |          [약수의 합](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)           | level1   |
+|     26     | Programmers | [문자열 내림차순으로 배치하기](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md) | level1   |
+|     27     | Programmers |    [문자열 내 p와 y의 개수](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)    | level1   |
+|     28     | Programmers |      [문자열 다루기 기본](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)      | level1   |
 
 </details>
 <!-- [![Solved.ac
