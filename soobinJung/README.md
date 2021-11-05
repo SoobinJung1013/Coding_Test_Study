@@ -172,6 +172,10 @@
 |     35     | Programmers |   [정수 내림차순으로 배치하기](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md#-정수-내림차순으로-배치하기)   | level1   |
 |     36     | Programmers |           [이상한 문자 만들기](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md#-이상한-문자-만들기)           | level1   |
 |     37     | Programmers |  [자연수 뒤집에 배열로 만들기](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md#-자연수-뒤집어-배열로-만들기)  | level1   |
+|     38     | Programmers |             [같은 숫자는 싫어](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md#-같은-숫자는-싫어)             | level1   |
+|     39     | Programmers |                    [시저암호](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md#-시저-암호)                     | level1   |
+|     40     | Programmers |      [최대공배수와 최소공약수](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md#-최대공배수와-최소공약수)      | level1   |
+|     41     | Programmers |                     [연습문제](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md#-연습문제)                     | 예비     |
 
 </details>
 <!-- [![Solved.ac
