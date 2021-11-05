@@ -8,8 +8,9 @@
 
 - [2주차 : coding bat : warm up](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/0925.md)
 - [3주차 : programmers : sql 👈🏻](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1001.md)
-- [7주차 : programmers : hashmap 👈🏻](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1029.md)
-- [8주차 : programmers : level1👈🏻](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)
+- [6주차 : programmers : hashmap 👈🏻](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1029.md)
+- [7주차 : programmers : level1👈🏻](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)
+- [8주차 : java 자료형, collections](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1106.md)
 
 ### **문제 목록**
 
