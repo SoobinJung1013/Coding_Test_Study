@@ -183,3 +183,11 @@
 </details>
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sb991013)](https://solved.ac/sb991013) -->
+<details markdown="1">
+<summary><strong>📄 9주차 (11/06 ~ 11/12) : 시험기간  </strong></summary>
+
+| 푼 문제 수 |   사이트    |                                   문제/풀이                                    | 풀이위치  |
+| :--------: | :---------: | :----------------------------------------------------------------------------: | --------- |
+|     1      | Programmers | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | level1-20 |
+
+</details>
