@@ -1,4 +1,4 @@
-## Java Map API
+## 🏷 Java Map API
 
 ```java
 // Make a new empty map
@@ -12,7 +12,7 @@ map.containsKey(key) // returns true if the key is in the map, false otherwise.
 map.remove(key) // removes the key/value pair for this key if present. Does nothing if the key is not present.
 ```
 
-## mapBully
+## 🏷 mapBully
 
 ```java
 public Map<String, String> mapBully(Map<String, String> map) {
@@ -38,7 +38,7 @@ public Map<String, String> mapBully(Map<String, String> map) {
 // }s
 ```
 
-## mapShare
+## 🏷 mapShare
 
 ```java
 public Map<String, String> mapShare(Map<String, String> map) {
@@ -51,7 +51,7 @@ public Map<String, String> mapShare(Map<String, String> map) {
    }
 ```
 
-## mapAB
+## 🏷 mapAB
 
 ```java
 public Map<String, String> mapAB(Map<String, String> map) {
@@ -64,7 +64,7 @@ public Map<String, String> mapAB(Map<String, String> map) {
 
 ```
 
-## topping1
+## 🏷 topping1
 
 ```java
 public Map<String, String> topping1(Map<String, String> map) {
@@ -78,7 +78,7 @@ public Map<String, String> topping1(Map<String, String> map) {
 
 ```
 
-## topping2
+## 🏷 topping2
 
 ```java
 public Map<String, String> topping2(Map<String, String> map) {
@@ -93,7 +93,7 @@ public Map<String, String> topping2(Map<String, String> map) {
   }
 ```
 
-## topping3
+## 🏷 topping3
 
 ```java
 public Map<String, String> topping3(Map<String, String> map) {
@@ -108,7 +108,7 @@ public Map<String, String> topping3(Map<String, String> map) {
   }
 ```
 
-## mapAB2
+## 🏷 mapAB2
 
 ```java
 public Map<String, String> mapAB2(Map<String, String> map) {
@@ -128,7 +128,7 @@ public Map<String, String> mapAB2(Map<String, String> map) {
 
 ```
 
-## mapAB3
+## 🏷 mapAB3
 
 ```java
 public Map<String, String> mapAB3(Map<String, String> map) {
@@ -144,7 +144,7 @@ public Map<String, String> mapAB3(Map<String, String> map) {
   }
 ```
 
-## mapAB4
+## 🏷 mapAB4
 
 ```java
 public Map<String, String> mapAB4(Map<String, String> map) {
@@ -165,7 +165,7 @@ public Map<String, String> mapAB4(Map<String, String> map) {
 
 ```
 
-## word0
+## 🏷 word0
 
 ```java
 public Map<String, Integer> word0(String[] strings) {
@@ -178,7 +178,7 @@ public Map<String, Integer> word0(String[] strings) {
 
 ```
 
-## wordLend
+## 🏷 wordLend
 
 ```java
 public Map<String, Integer> wordLen(String[] strings) {
@@ -190,7 +190,7 @@ public Map<String, Integer> wordLen(String[] strings) {
 }
 ```
 
-## pairs
+## 🏷 pairs
 
 ```java
 public Map<String, String> pairs(String[] strings) {
@@ -203,7 +203,7 @@ public Map<String, String> pairs(String[] strings) {
 
 ```
 
-## wordCount
+## 🏷 wordCount
 
 ```java
 public Map<String, Integer> wordCount(String[] strings) {
@@ -221,7 +221,7 @@ public Map<String, Integer> wordCount(String[] strings) {
   }
 ```
 
-## firstChar
+## 🏷 firstChar
 
 ```java
 public Map<String, String> firstChar(String[] strings) {
@@ -236,7 +236,7 @@ public Map<String, String> firstChar(String[] strings) {
   }
 ```
 
-## wordAppend
+## 🏷 wordAppend
 
 ```java
 public String wordAppend(String[] strings) {
@@ -275,7 +275,7 @@ public String wordAppend(String[] strings) {
 // return answer;
 ```
 
-## wordMultiple
+## 🏷 wordMultiple
 
 ```java
 public Map<String, Boolean> wordMultiple(String[] strings) {

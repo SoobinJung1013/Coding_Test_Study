@@ -1,4 +1,4 @@
-## mapBully
+## 🏷 mapBully
 
 ````java
 public Map<String, String> mapBully(Map<String, String> map) {
@@ -25,7 +25,7 @@ public Map<String, String> mapBully(Map<String, String> map) {
 // }```
 ````
 
-## mapShare
+## 🏷 mapShare
 
 ```java
 public Map<String, String> mapShare(Map<String, String> map) {
@@ -39,7 +39,7 @@ public Map<String, String> mapShare(Map<String, String> map) {
 
 ```
 
-## makeAB
+## 🏷 makeAB
 
 ```java
 public Map<String, String> mapAB(Map<String, String> map) {
@@ -51,7 +51,7 @@ public Map<String, String> mapAB(Map<String, String> map) {
 }
 ```
 
-## topping1
+## 🏷 topping1
 
 ```java
 public Map<String, String> topping1(Map<String, String> map) {
@@ -64,7 +64,7 @@ public Map<String, String> topping1(Map<String, String> map) {
 }
 ```
 
-## topping 2
+## 🏷 topping 2
 
 ```java
 public Map<String, String> topping2(Map<String, String> map) {
@@ -79,7 +79,7 @@ public Map<String, String> topping2(Map<String, String> map) {
   }
 ```
 
-## topping3
+## 🏷 topping3
 
 ```java
 public Map<String, String> topping3(Map<String, String> map) {
@@ -95,7 +95,7 @@ public Map<String, String> topping3(Map<String, String> map) {
 
 ```
 
-## mapAB2
+## 🏷 mapAB2
 
 ```java
 
@@ -116,7 +116,7 @@ public Map<String, String> mapAB2(Map<String, String> map) {
 
 ```
 
-## mapAB3
+## 🏷 mapAB3
 
 ```java
 public Map<String, String> mapAB3(Map<String, String> map) {
@@ -132,7 +132,7 @@ public Map<String, String> mapAB3(Map<String, String> map) {
   }
 ```
 
-## mapAB4
+## 🏷 mapAB4
 
 ```java
 public Map<String, String> mapAB4(Map<String, String> map) {

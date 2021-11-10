@@ -1,4 +1,4 @@
-## love6
+## 🏷 love6
 
 ```java
 public boolean love6(int a, int b) {
