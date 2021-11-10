@@ -176,8 +176,8 @@
 |     38     | Programmers |             [같은 숫자는 싫어](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md#-같은-숫자는-싫어)             | level1   |
 |     39     | Programmers |                    [시저암호](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md#-시저-암호)                     | level1   |
 |     40     | Programmers |      [최대공배수와 최소공약수](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md#-최대공배수와-최소공약수)      | level1   |
-|     41     | Programmers |   [문자열 내 마음대로 정렬하기](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md#-나머지가-1이-되는-수-찾기)   | level1   |
-|     42     | Programmers |             [같은 숫자는 싫어](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md#-같은-숫자는-싫어)             | level1   |
+|     41     | Programmers |    [나머지가 1이 되는 수 찾기](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md#-나머지가-1이-되는-수-찾기)    | level1   |
+|     42     | Programmers |  [문자열 내 마음대로 정렬하기](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md#-문자열-내-마음대로-정렬하기)  | level1   |
 |     43     | Programmers |                     [연습문제](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md#-연습문제)                     | 예비     |
 
 </details>
