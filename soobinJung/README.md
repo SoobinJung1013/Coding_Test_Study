@@ -17,18 +17,18 @@
 <details markdown="1">
 <summary><strong>📄 1주차 (9/11 ~ 9/17) </strong></summary>
 
-| 푼 문제 수 |   사이트   |                      문제/풀이                      | 풀이위치   |
-| :--------: | :--------: | :-------------------------------------------------: | ---------- |
-|     1      | Coding Bat |   [SleepIn ](https://codingbat.com/prob/p187868)    | warmup1-1  |
-|     2      | Coding Bat | [MonkeyTrouble](https://codingbat.com/prob/p181646) | warmup1-2  |
-|     3      | Coding Bat |   [SumDouble](https://codingbat.com/prob/p154485)   | warmup1-3  |
-|     4      | Coding Bat |   [SumDouble](https://codingbat.com/prob/p116624)   | warmup1-4  |
-|     5      | Coding Bat | [parrotTrouble](https://codingbat.com/prob/p140449) | warmup1-5  |
-|     6      | Coding Bat |   [makes10 ](https://codingbat.com/prob/p182873)    | warmup1-6  |
-|     7      | Coding Bat | [nearHundred ](https://codingbat.com/prob/p184004)  | warmup1-7  |
-|     8      | Coding Bat |    [posNeg](https://codingbat.com/prob/p159227)     | warmup1-8  |
-|     9      | Coding Bat |   [notString](https://codingbat.com/prob/p191914)   | warmup1-9  |
-|     10     | Coding Bat | [missingChar ](https://codingbat.com/prob/p190570)  | warmup1-10 |
+| 푼 문제 수 |   사이트   |                                                       문제/풀이                                                       | 풀이위치 |
+| :--------: | :--------: | :-------------------------------------------------------------------------------------------------------------------: | -------- |
+|     1      | Coding Bat |   [SleepIn ](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/warmup1/warmUp.md)    | warmup1  |
+|     2      | Coding Bat | [MonkeyTrouble](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/warmup1/warmUp.md) | warmup1  |
+|     3      | Coding Bat |   [SumDouble](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/warmup1/warmUp.md)   | warmup1  |
+|     4      | Coding Bat |   [SumDouble](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/warmup1/warmUp.md)   | warmup1  |
+|     5      | Coding Bat | [parrotTrouble](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/warmup1/warmUp.md) | warmup1  |
+|     6      | Coding Bat |   [makes10 ](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/warmup1/warmUp.md)    | warmup1  |
+|     7      | Coding Bat | [nearHundred ](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/warmup1/warmUp.md)  | warmup1  |
+|     8      | Coding Bat |    [posNeg](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/warmup1/warmUp.md)     | warmup1  |
+|     9      | Coding Bat |   [notString](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/warmup1/warmUp.md)   | warmup1  |
+|     10     | Coding Bat | [missingChar ](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/warmup1/warmUp.md)  | warmup1  |
 
 ---
 
@@ -37,27 +37,27 @@
 <details markdown="1">
 <summary><strong>📄 2주차 (9/18 ~ 9/24) </strong></summary>
 
-| 푼 문제 수 |   사이트   |                     문제/풀이                     | 풀이위치   |
-| :--------: | :--------: | :-----------------------------------------------: | ---------- |
-|     1      | Coding Bat | [backAround](https://codingbat.com/prob/p161642)  | warmup1-11 |
-|     2      | Coding Bat |    [or35](https://codingbat.com/prob/p112564)     | warmup1-12 |
-|     3      | Coding Bat |   [front22](https://codingbat.com/prob/p183592)   | warmup1-13 |
-|     4      | Coding Bat |   [startHi](https://codingbat.com/prob/p191022)   | warmup1-14 |
-|     5      | Coding Bat |   [icyHot](https://codingbat.com/prob/p192082)    | warmup1-15 |
-|     6      | Coding Bat |  [fontBack](https://codingbat.com/prob/p123384)   | warmup1-16 |
-|     7      | Coding Bat |   [font3 ](https://codingbat.com/prob/p136351)    | warmup1-17 |
-|     8      | Coding Bat |  [helloName](https://codingbat.com/prob/p171896)  | string1_1  |
-|     9      | Coding Bat |  [makeAbba](https://codingbat.com/prob/p161056)   | string1_2  |
-|     10     | Coding Bat |   [makeTag](https://codingbat.com/prob/p147483)   | string1_3  |
-|     11     | Coding Bat | [makeOutWord](https://codingbat.com/prob/p184030) | string1_4  |
-|     12     | Coding Bat |  [extraEnds](https://codingbat.com/prob/p108853)  | string1_5  |
-|     13     | Coding Bat |  [firstTwo](https://codingbat.com/prob/p163411)   | string1_6  |
-|     14     | Coding Bat |  [irstHalf](https://codingbat.com/prob/p172267)   | string1_7  |
-|     15     | Coding Bat | [withoutEnd](https://codingbat.com/prob/p130896)  | string1_8  |
-|     16     | Coding Bat | [comboString](https://codingbat.com/prob/p168564) | string1_9  |
-|     17     | Coding Bat |  [nonStart](https://codingbat.com/prob/p143825)   | string1_10 |
-|     18     | Coding Bat |   [left2 ](https://codingbat.com/prob/p197720)    | string1_11 |
-|     19     | Coding Bat |   [love6 ](https://codingbat.com/prob/p137742)    | logic1-1   |
+| 푼 문제 수 |   사이트   |                                                      문제/풀이                                                       | 풀이위치   |
+| :--------: | :--------: | :------------------------------------------------------------------------------------------------------------------: | ---------- |
+|     1      | Coding Bat |  [backAround](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/warmup1/warmUp.md)  | warmup1-11 |
+|     2      | Coding Bat |     [or35](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/warmup1/warmUp.md)     | warmup1-12 |
+|     3      | Coding Bat |   [front22](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/warmup1/warmUp.md)    | warmup1-13 |
+|     4      | Coding Bat |   [startHi](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/warmup1/warmUp.md)    | warmup1-14 |
+|     5      | Coding Bat |                                     [icyHot](https://codingbat.com/prob/p192082)                                     | warmup1-15 |
+|     6      | Coding Bat |   [fontBack](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/warmup1/warmUp.md)   | warmup1-16 |
+|     7      | Coding Bat |    [font3 ](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/warmup1/warmUp.md)    | warmup1-17 |
+|     8      | Coding Bat |  [helloName](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/string1/string1.md)  | string1_1  |
+|     9      | Coding Bat |  [makeAbba](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/string1/string1.md)   | string1_2  |
+|     10     | Coding Bat |   [makeTag](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/string1/string1.md)   | string1_3  |
+|     11     | Coding Bat | [makeOutWord](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/string1/string1.md) | string1_4  |
+|     12     | Coding Bat |  [extraEnds](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/string1/string1.md)  | string1_5  |
+|     13     | Coding Bat |  [firstTwo](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/string1/string1.md)   | string1_6  |
+|     14     | Coding Bat |  [irstHalf](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/string1/string1.md)   | string1_7  |
+|     15     | Coding Bat | [withoutEnd](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/string1/string1.md)  | string1_8  |
+|     16     | Coding Bat | [comboString](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/string1/string1.md) | string1_9  |
+|     17     | Coding Bat |  [nonStart](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/string1/string1.md)   | string1_10 |
+|     18     | Coding Bat |   [left2 ](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/string1/string1.md)    | string1_11 |
+|     19     | Coding Bat |     [love6 ](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/logic/logic1.md)     | logic1-1   |
 
 ---
 
@@ -95,25 +95,25 @@
 <details markdown="1">
 <summary><strong>📄 4,5주차 (10/2 ~ 10/15) </strong></summary>
 
-| 푼 문제 수 |   사이트    |                                   문제/풀이                                    | 풀이위치  |
-| :--------: | :---------: | :----------------------------------------------------------------------------: | :-------: |
-|     1      | Programmers | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | level1-20 |
-|     2      |  CodingBat  |                 [mapBully](https://codingbat.com/prob/p197888)                 |  map1-1   |
-|     3      |  CodingBat  |                 [shareMap](https://codingbat.com/prob/p148813)                 |  map1-2   |
-|     4      |  CodingBat  |                  [mapAB](https://codingbat.com/prob/p107259)                   |  map1-3   |
-|     5      |  CodingBat  |                 [topping1](https://codingbat.com/prob/p182712)                 |  map1-4   |
-|     6      |  CodingBat  |                 [topping2](https://codingbat.com/prob/p196458)                 |  map1-5   |
-|     7      |  CodingBat  |                 [topping3](https://codingbat.com/prob/p128461)                 |  map1-6   |
-|     8      |  CodingBat  |                  [mapAB2](https://codingbat.com/prob/p115011)                  |  map1-7   |
-|     9      |  CodingBat  |                  [mapAB3](https://codingbat.com/prob/p115012)                  |  map1-8   |
-|     10     |  CodingBat  |                  [mapAB4](https://codingbat.com/prob/p136950)                  |  map1-9   |
-|     11     |  CodingBat  |                  [word0](https://codingbat.com/prob/p152303)                   |  map2-1   |
-|     12     |  CodingBat  |                 [wordLen](https://codingbat.com/prob/p125327)                  |  map2-2   |
-|     13     |  CodingBat  |                  [pairs](https://codingbat.com/prob/p126332)                   |  map2-3   |
-|     14     |  CodingBat  |                [wordCount](https://codingbat.com/prob/p117630)                 |  map2-4   |
-|     15     |  CodingBat  |                [firstChar](https://codingbat.com/prob/p168493)                 |  map2-5   |
-|     16     |  CodingBat  |                [wordAppend](https://codingbat.com/prob/p103593)                |  map2-6   |
-|     17     |  CodingBat  |               [wordMultiple](https://codingbat.com/prob/p190862)               |  map2-7   |
+| 푼 문제 수 |   사이트    |                                                   문제/풀이                                                    | 풀이위치  |
+| :--------: | :---------: | :------------------------------------------------------------------------------------------------------------: | :-------: |
+|     1      | Programmers |                 [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)                 | level1-20 |
+|     2      |  CodingBat  |   [mapBully](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/map/map1.md)   |  map1-1   |
+|     3      |  CodingBat  |   [shareMap](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/map/map1.md)   |  map1-2   |
+|     4      |  CodingBat  |    [mapAB](hhttps://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/map/map1.md)    |  map1-3   |
+|     5      |  CodingBat  |   [topping1](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/map/map1.md)   |  map1-4   |
+|     6      |  CodingBat  |   [topping2](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/map/map1.md)   |  map1-5   |
+|     7      |  CodingBat  |   [topping3](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/map/map1.md)   |  map1-6   |
+|     8      |  CodingBat  |    [mapAB2](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/map/map1.md)    |  map1-7   |
+|     9      |  CodingBat  |    [mapAB3](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/map/map1.md)    |  map1-8   |
+|     10     |  CodingBat  |    [mapAB4](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/map/map1.md)    |  map1-9   |
+|     11     |  CodingBat  |    [word0](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/map/map1.md)     |  map2-1   |
+|     12     |  CodingBat  |   [wordLen](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/map/map1.md)    |  map2-2   |
+|     13     |  CodingBat  |    [pairs](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/map/map1.md)     |  map2-3   |
+|     14     |  CodingBat  |  [wordCount](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/map/map1.md)   |  map2-4   |
+|     15     |  CodingBat  |  [firstChar](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/map/map1.md)   |  map2-5   |
+|     16     |  CodingBat  |  [wordAppend](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/map/map1.md)  |  map2-6   |
+|     17     |  CodingBat  | [wordMultiple](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/map/map1.md) |  map2-7   |
 
 ---
 
@@ -136,12 +136,12 @@
 
 | 푼 문제 수 |   사이트    |                                                                     문제/풀이                                                                      | 풀이위치 |
 | :--------: | :---------: | :------------------------------------------------------------------------------------------------------------------------------------------------: | -------- |
-|     1      |  CodingBat  |                                                  [firstLast6](https://codingbat.com/prob/p185685)                                                  | array1-1 |
-|     2      |  CodingBat  |                                                [sameFirstLast](https://codingbat.com/prob/p118976)                                                 | array1-2 |
-|     3      |  CodingBat  |                                                    [makePi](https://codingbat.com/prob/p118976)                                                    | array1-3 |
-|     4      |  CodingBat  |                                                  [commonEnd](https://codingbat.com/prob/p191991)                                                   | array1-4 |
-|     5      |  CodingBat  |                                                    [start1](https://codingbat.com/prob/p109660)                                                    | array1-5 |
-|     6      |  CodingBat  |                                                  [frontPiece](https://codingbat.com/prob/p142455)                                                  | array1-6 |
+|     1      |  CodingBat  |                 [firstLast6](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/array1/array1.md)                  | array1-1 |
+|     2      |  CodingBat  |                [sameFirstLast](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/array1/array1.md)                | array1-2 |
+|     3      |  CodingBat  |                   [makePi](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/array1/array1.md)                    | array1-3 |
+|     4      |  CodingBat  |                  [commonEnd](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/array1/array1.md)                  | array1-4 |
+|     5      |  CodingBat  |                   [start1](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/array1/array1.md)                    | array1-5 |
+|     6      |  CodingBat  |                 [frontPiece](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/array1/array1.md)                  | array1-6 |
 |     7      | Programmers | [로또의 최고 순위와 최저 순위](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md#-로또의-최고-순위와-최저-순위) | level1   |
 |     8      | Programmers |         [없는 숫자 더하기](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md#-없는-숫자-더하기--해시맵)         | level1   |
 |     9      | Programmers |       [완주하지 못한 선수](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md#-완주하지-못한-선수--해시맵)       | level1   |
