@@ -6,11 +6,11 @@
 
 ### **발표자료**
 
-- [coding bat : warmup, array, string, map, logic](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/0925.md)
+- [coding bat : warmup, array, string, map, logic 👈🏻](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/0925.md)
 - [programmers : sql 👈🏻](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1001.md)
 - [programmers : hashmap 👈🏻](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1029.md)
 - [programmers : level1👈🏻](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1105.md)
-- [java 자료형 및 collections](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1106.md)
+- [java 자료형 및 collections 👈🏻](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1106.md)
 
 ### **문제 목록**
 

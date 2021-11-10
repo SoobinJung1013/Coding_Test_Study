@@ -1,3 +1,5 @@
+- [coding bat : logic](https://codingbat.com/java/Logic-1)
+
 ## 🏷 love6
 
 ```java

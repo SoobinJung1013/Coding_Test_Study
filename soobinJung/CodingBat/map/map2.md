@@ -1,3 +1,5 @@
+- [coding bat : map2](https://codingbat.com/java/Map-2)
+
 ## 🏷 mapBully
 
 ````java

@@ -1,3 +1,5 @@
+- [coding bat : array](https://codingbat.com/java/Array-1)
+
 ## 🏷 firstLast6
 
 ```java

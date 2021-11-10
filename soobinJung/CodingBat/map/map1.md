@@ -1,3 +1,5 @@
+- [coding bat : map1](https://codingbat.com/java/Map-1)
+
 ## 🏷 Java Map API
 
 ```java
