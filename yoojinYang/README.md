@@ -75,3 +75,13 @@
 
 </details>
 
+
+
+<details markdown="1">
+<summary><strong>📄 5주차 (11/6~11/12) </strong></summary>
+
+[JS study](https://github.com/vikira/CodeSquad-Cocoa-JS/tree/main/Mission)
+
+---
+
+</details>
