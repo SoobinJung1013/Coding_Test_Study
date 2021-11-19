@@ -199,3 +199,34 @@ GROUP BY HOUR(DATETIME)
 # HAVING HOUR(DATETIME) > 8 AND HOUR(DATETIME) < 20
 ORDER BY HOUR(DATETIME)
 ```
+
+## 🏷 NULL 처리하기
+
+```sql
+-- 코드를 입력하세요
+SELECT ANIMAL_TYPE, IFNULL(NAME, 'No name') AS NAME, SEX_UPON_INTAKE
+FROM ANIMAL_INS
+ORDER BY ANIMAL_ID
+```
+
+## 🏷 중복 제거하기
+
+```sql
+SELECT COUNT(DISTINCT NAME)
+FROM ANIMAL_INS
+WHERE NAME IS NOT NULL
+```
+
+## 🏷 동물 수 구하기
+
+```sql
+-- 코드를 입력하세요
+SELECT COUNT(*) as 'count'
+FROM ANIMAL_INS
+```
+
+## 🏷 최솟값
+```sql
+-- 코드를 입력하세요
+SELECT min(DATETIME) as '시간' FROM ANIMAL_INS;
+```
