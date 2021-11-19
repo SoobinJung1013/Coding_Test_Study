@@ -184,10 +184,21 @@
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sb991013)](https://solved.ac/sb991013) -->
 <details markdown="1">
-<summary><strong>📄 9주차 (11/06 ~ 11/12) : 시험기간  </strong></summary>
+<summary><strong>📄 9주차 (11/06 ~ 11/12) </strong></summary>
 
-| 푼 문제 수 |   사이트    |                                   문제/풀이                                    | 풀이위치  |
-| :--------: | :---------: | :----------------------------------------------------------------------------: | --------- |
-|     1      | Programmers | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | level1-20 |
+| 푼 문제 수 |  사이트   |                                                     문제/풀이                                                     | 풀이위치 |
+| :--------: | :-------: | :---------------------------------------------------------------------------------------------------------------: | -------- |
+|     1      | CodingBat | [sum3](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/CodingBat/array1/array1.md#-sum3) | level1   |
+
+</details>
+
+<details markdown="1">
+<summary><strong>📄 10주차 (11/13 ~ 11/19) </strong></summary>
+
+| 푼 문제 수 |   사이트    |                                                       문제/풀이                                                        | 풀이위치 |
+| :--------: | :---------: | :--------------------------------------------------------------------------------------------------------------------: | -------- |
+|     1      | Programmers | [고양이와 개는 몇 마리 있을까 ?](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1001.md) | level1   |
+|     2      | Programmers |       [동명 동물 수 찾기](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1001.md)        | level    |
+|     3      | Programmers |        [입양 시각 구하기](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1001.md)        | level    |
 
 </details>
