@@ -230,3 +230,28 @@ FROM ANIMAL_INS
 -- 코드를 입력하세요
 SELECT min(DATETIME) as '시간' FROM ANIMAL_INS;
 ```
+
+## 🏷 루시와 엘라 찾기
+```sql
+-- 코드를 입력하세요
+SELECT ANIMAL_ID, NAME, SEX_UPON_INTAKE
+FROM ANIMAL_INS
+WHERE NAME IN ('Lucy', 'Ella', 'Pickle', 'Rogan', 'Sabrina', 'Mitty')
+ORDER BY ANIMAL_ID
+```
+
+## 🏷 이름에 el 들어가는 동물 찾기 
+```sql
+-- 코드를 입력하세요
+SELECT ANIMAL_ID, NAME
+FROM ANIMAL_INS
+WHERE LOWER(NAME) LIKE LOWER('%el%') AND ANIMAL_TYPE='Dog'
+ORDER BY NAME
+```
+
+## 🏷 DATETIME에서 DATE로 형변환
+```sql
+-- 코드를 입력하세요
+SELECT ANIMAL_ID, NAME, DATE_FORMAT(DATETIME, '%Y-%m-%d') as 날짜
+FROM ANIMAL_INS
+```

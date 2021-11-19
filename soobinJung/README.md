@@ -198,7 +198,15 @@
 | 푼 문제 수 |   사이트    |                                                       문제/풀이                                                        | 풀이위치 |
 | :--------: | :---------: | :--------------------------------------------------------------------------------------------------------------------: | -------- |
 |     1      | Programmers | [고양이와 개는 몇 마리 있을까 ?](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1001.md) | level1   |
-|     2      | Programmers |       [동명 동물 수 찾기](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1001.md)        | level    |
-|     3      | Programmers |        [입양 시각 구하기](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1001.md)        | level    |
+|     2      | Programmers |       [동명 동물 수 찾기](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1001.md)        | level2    |
+|     3      | Programmers |        [입양 시각 구하기](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1001.md)        | level2    |
+|     4      | Programmers |        [입양 시각 구하기2](https://github.com/SoobinJung1013/coding-test-study/blob/main/soobinJung/doc/1001.md)        | level4    |
+|     5      | Programmers |        [루시와 엘라 찾기]()        | level2    |
+|     6      | Programmers |        [이름에 el 들어가는 동물 찾기 ]()        | level2    |
+|     7     | Programmers |        [DATETIME에서 DATE로 형변환 ]()        | level2    |
+|     8     | Programmers |        [중성화 여부 파악하기 ]()        | level2    |
+|     9     | Programmers |        [오랜 기간 보호된 동물(2) ]()        | level3    |
+
+
 
 </details>
