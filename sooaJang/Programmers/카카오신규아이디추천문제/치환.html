@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var text = '가나다라 마바사 가나';
+        var result = text.replace('가','나');
+        var result2 = text.replace(/다/gi,'라');
+        console.log(result2);
+
+        var regText = ' 123 456 ';
+        var regText1 = regText.replace(/^ /gi, "");
+        var regText2 = regText.replace(/ $/gi, "");
+      
+        console.log(regText1);
+        console.log(regText2);
+
+
+        
+    </script>
+</body>
+</html>

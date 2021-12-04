@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+         window.onload = function() {
+            console.log("[window ready] : [start]");
+            console.log("");
+
+            //초기 변수 선언 실시
+            var str = "AdmiN, **{}! 1234.안녕";
+
+            //특수문자 제거 이벤트 함수 호출
+            removeSpecialData(str);
+
+            //숫자 제거 이벤트 함수 호출
+            removeNumberData(str);
+            
+            //영어 제거 이벤트 함수 호출
+            removeEngData(str);
+         };
+
+
+        function removeSpecialData(originalData) {
+            console.log("");
+            console.log("[removeSpecialData] : [start]");
+            console.log("[originalData] : " + originalData);
+            console.log("");
+
+            //[1] 정규식 형태 선언 실시 (특수문자, 괄호, 점, 공백 모두 제거 실시)
+            var reg = /['~!@#$%^&*()_|+\==?;:'",.<>\{\}\[\]\\\/ ]/gim;
+
+            //[2] 정규식 형태 선언 실시 (특수문자, 괄호, 점 모두 제거 실시 - 공백은 제거 안함)
+            //var reg = /['~!@#$%^&*()_|+\-=?;:,.'"<>\{\}\[\]\\\/]/gim;
+
+            //[2] 정규식 형태 선언 실시 (특수문자, 괄호, 점 모두 제거 실시 - 점은 제거 안함)
+            //var reg = /['~!@#$%^&*()_|+\-=?;:'"<>\{\}\[\]\\\/ ]/gim;
+
+            //특수문자가 제거된 값을 담을 변수 선언 실시
+            var resultData = originalData.replace(reg,"");
+
+            console.log("");
+            console.log("[removeSpecialData] : [특수문자 및 공백 제거]");
+            console.log("[removeData] "+ resultData);
+            console.log("");
+        };
+
+
+        /* [숫자 제거 이벤트 수행 부분] */
+        function removeNumberData(originalData) {
+            console.log("");
+            console.log("[removeNumberData] : [start]");
+            console.log("[originalData] : " + originalData);
+            console.log("");
+
+            //정규식 형태 선언 실시 (숫자, 공백 모두 제거 살사)
+            var reg = /[0-9 ]/gim;
+
+            // 숫자 및 공백이 제거된 값을 담을 변수 선언 실시
+            var resultData = originalData.replace(reg, "");
+
+            console.log("");
+            console.log("[removeNumberData] : [숫자 및 공백 제거]");
+            console.log("[removeData] "+ resultData);
+            console.log("");
+        };
+
+        function removeEngData(originalData) {
+            console.log("");
+            console.log("[removeEngData] : [start]");
+            console.log("[originalData] : " + originalData);
+            console.log("");
+
+            var reg = /[a-zA-Z ]/gim;
+
+            var resultData = originalData.replace(reg, "");
+
+            console.log("");
+            console.log("[removeEngData] : [영어 및 공백 제거]");
+            console.log("[removeData] "+ resultData);
+            console.log("");
+        };
+    </script>
+</body>
+</html>

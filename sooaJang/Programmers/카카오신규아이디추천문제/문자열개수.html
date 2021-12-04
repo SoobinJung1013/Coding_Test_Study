@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var txt='안녕하세요..';
+
+        console.log(txt.length);
+        console.log(txt.substr(0,2));
+
+        if( txt.length <=10) {
+            var last_char = txt.charAt(txt.length-1);
+            console.log(last_char.repeat(2));
+        };
+
+        var newOne = txt.replace('..','.');
+        console.log(newOne);
+    </script>
+</body>
+</html>
